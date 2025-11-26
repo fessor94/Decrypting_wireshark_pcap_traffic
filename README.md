@@ -82,15 +82,4 @@ File > Export Objects > SMB
 
 ---
 
-## Summary
-
-This workflow demonstrates:
-
-1. Extracting authentication data from an LSASS memory dump  
-2. Finding a user's NTLM hash  
-3. Recovering the original password (for evidence analysis)  
-4. Decrypting captured SMB3 traffic using Wireshark  
-5. Exporting the files transferred during the SMB session  
-
-This process is commonly used in digital forensics and incident response to reconstruct user activity and analyze encrypted network traffic.
 

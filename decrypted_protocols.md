@@ -1,4 +1,5 @@
-# Decry
+# SMB3/HTTPS Forensic Decryption
+
 
 
 #### `> pypykatz lsa minidump Documents/Roomz/Block/evidence-1697996360986/lsass.DMP -o ./dmp.txt`
